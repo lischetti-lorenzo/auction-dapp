@@ -1,0 +1,5 @@
+node_modules
+
+# Secrets
+.secret-mnemonic
+.secret-infura-endpoint
